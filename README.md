@@ -1,6 +1,7 @@
 # Простой тест-сравнение PySpark, Dask и Pandas
 
 **Тест в локал моде, на макбуке с 16 гб оперативы**
+
 **на диске свободно еще 17гб для раздувания файла подкачки**
 
 В тесте используются [данные MTS ML Cup 2023](https://storage.yandexcloud.net/ds-ods/files/materials/124f46f0/competition_data_final_pqt.zip)
